@@ -1,1 +1,1 @@
-# Elaboration-d-un-G-oportail-avec-ArcGIS-Maps-SDK-for-Javascript-_casablanca
+This is a  web mapping application using ArcGIS JS API to display various layers related to Casablanca, Morocco.
